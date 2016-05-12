@@ -9,6 +9,7 @@ namespace YandexMarketLanguage.ObjectMapping
     /// <summary>
     ///     Product offer
     /// </summary>
+    [XmlInclude(typeof(offerCustom))]
     [Serializable]
     public class offer
     {

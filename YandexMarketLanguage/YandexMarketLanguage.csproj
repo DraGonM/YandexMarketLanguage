@@ -41,6 +41,7 @@
     <Compile Include="ObjectMapping\currency.cs" />
     <Compile Include="ObjectMapping\delivery_option.cs" />
     <Compile Include="ObjectMapping\offer.cs" />
+    <Compile Include="ObjectMapping\offerCustom.cs" />
     <Compile Include="ObjectMapping\param.cs" />
     <Compile Include="ObjectMapping\shop.cs" />
     <Compile Include="ObjectMapping\yml_catalog.cs" />

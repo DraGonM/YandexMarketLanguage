@@ -110,8 +110,8 @@ namespace YandexMarketLanguage.ObjectMapping
             get { return _deliveryOptions; }
             set
             {
-                if (value == null)
-                    throw new ArgumentException("delivery_options must not be null");
+//                if (value == null)
+//                    throw new ArgumentException("delivery_options must not be null");
 
                 _deliveryOptions = value;
             }

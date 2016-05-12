@@ -28,6 +28,14 @@
         <categoryId>1</categoryId>
         <name>Наручные часы Casio A1234567B</name>
       </offer>
+      <offer p4:type="offerCustom" id="777" xmlns:p4="http://www.w3.org/2001/XMLSchema-instance">
+        <price>600</price>
+        <currencyId>EUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>TEST</name>
+        <price_opt>504</price_opt>
+        <ostatok>12</ostatok>
+      </offer>
       <offer id="12341" type="vendor.model">
         <price>16800</price>
         <currencyId>RUR</currencyId>

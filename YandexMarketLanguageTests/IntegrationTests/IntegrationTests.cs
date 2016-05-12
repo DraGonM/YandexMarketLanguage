@@ -39,6 +39,7 @@ namespace YandexMarketLanguageTests.IntegrationTests
                 new[]
                 {
                     new offer(id: "12346", price: 600, currencyId: CurrencyEnum.EUR, categoryId: 1, name: "Наручные часы Casio A1234567B"),
+                    new offerCustom(id: "777", price: 600, currencyId: CurrencyEnum.EUR, categoryId: 1, name: "TEST", ostatok: "12", price_opt: 504),
                     new offer(id: "12341", price: 16800, currencyId: CurrencyEnum.RUR, categoryId: 2, typePrefix: "Принтер", vendor: "HP", model: "Deskjet D2663")
                     {
                         vendorCode = "CH366C",
